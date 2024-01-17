@@ -1,5 +1,14 @@
 PeasyMotion (doc tab & code navigation)
 ===
+
+**Forked version of extension**
+
++ Supports one char search 🚀
+
+VSIX can be download from Release page https://github.com/panda7789/PeasyMotion/releases
+
+---
+
 [![Build status](https://ci.appveyor.com/api/projects/status/dm1x4gin96pp9oy2/branch/master?svg=true)](https://ci.appveyor.com/project/msomeone/peasymotion/branch/master)
 
 ![Animated demonstration](preview.gif)
